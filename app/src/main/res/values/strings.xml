@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_2.1</string>
+    <string name="txt">Videos</string>
+    <string name="btn_Grabar">GRABAR</string>
+    <string name="btn_Almacenar">ALMACENAR</string>
+    <string name="btn_Videos">VIDEOS</string>
+</resources>
